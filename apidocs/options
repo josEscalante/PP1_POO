@@ -1,0 +1,26 @@
+-classpath
+'C:/Users/jescalante98/.m2/repository/com/microsoft/sqlserver/mssql-jdbc/9.4.0.jre8/mssql-jdbc-9.4.0.jre8.jar;C:/Users/jescalante98/.m2/repository/unknown/binary/jcalendar-1.1.4/SNAPSHOT/jcalendar-1.1.4-SNAPSHOT.jar;C:/Users/jescalante98/.m2/repository/com/itextpdf/itextpdf/5.5.12/itextpdf-5.5.12.jar;C:/Users/jescalante98/.m2/repository/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar;C:/Users/jescalante98/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/jescalante98/OneDrive - Estudiantes ITCR/Documentos/ITCR/SII-2021/POO/Proyectos/Proyecto_1/Versiones/GestorPlanesEstudioV15/GestorPlanesEstudio/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jescalante98/OneDrive - Estudiantes ITCR/Documentos/ITCR/SII-2021/POO/Proyectos/Proyecto_1/Versiones/GestorPlanesEstudioV15/GestorPlanesEstudio/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'GestorPlanesEstudio 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/jescalante98/OneDrive - Estudiantes ITCR/Documentos/ITCR/SII-2021/POO/Proyectos/Proyecto_1/Versiones/GestorPlanesEstudioV15/GestorPlanesEstudio/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'GestorPlanesEstudio 1.0-SNAPSHOT API'
